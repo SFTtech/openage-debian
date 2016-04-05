@@ -3,7 +3,7 @@ Section: unknown
 Priority: optional
 Maintainer: Jonas Jelten <jj@sft.mx>
 Build-Depends: debhelper (>= 9), cmake
-Standards-Version: 3.9.5
+Standards-Version: 3.9.7
 Homepage: https://github.com/SFTtech/openage
 Vcs-Git: https://github.com/SFTtech/openage.git
 Vcs-Browser: https://github.com/SFTtech/openage
