@@ -1,5 +1,5 @@
 Source: openage
-Section: unknown
+Section: games
 Priority: optional
 Maintainer: Jonas Jelten <jj@sft.mx>
 Build-Depends: debhelper (>= 9), cmake
