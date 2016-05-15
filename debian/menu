@@ -1,3 +1,3 @@
 ?package(openage):needs="X11|text|vc|wm"\
   section="Games/Strategy"\
-  title="openage" command="/usr/bin/openage"
+  title="openage" command="python3 -m openage"
