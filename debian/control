@@ -8,7 +8,7 @@ Homepage: https://github.com/SFTtech/openage
 Vcs-Git: https://github.com/SFTtech/openage.git
 Vcs-Browser: https://github.com/SFTtech/openage
 
-Package: openage0
+Package: openage
 Architecture: any
 Multi-Arch: same
 Depends: ${shlibs:Depends}, ${misc:Depends}
