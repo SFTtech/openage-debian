@@ -1,0 +1,11 @@
+# It's launched with an external interpreter.
+openage binary: desktop-command-not-in-package
+openage binary: menu-command-not-in-package
+
+# xdg-open does not need to be executable.
+openage binary: script-not-executable
+openage binary: unusual-interpreter
+
+# We will talk again if we link to it something external.
+openage binary: package-name-doesnt-match-sonames
+openage binary: non-dev-pkg-with-shlib-symlink
