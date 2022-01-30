@@ -1,0 +1,16 @@
+Source: openage
+Section: games
+Priority: optional
+Maintainer: Jonas Jelten <jj@sft.mx>
+Build-Depends: debhelper (>= 9), cmake
+Standards-Version: 3.9.7
+Homepage: https://github.com/SFTtech/openage
+Vcs-Git: https://github.com/SFTtech/openage.git
+Vcs-Browser: https://github.com/SFTtech/openage
+
+Package: openage
+Architecture: any
+Multi-Arch: same
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: RTS game engine
+ Free reimplementation.

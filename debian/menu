@@ -1,0 +1,3 @@
+?package(openage):needs="X11"\
+  section="Games/Strategy"\
+  title="openage" command="python3 -m openage"
